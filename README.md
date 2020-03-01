@@ -26,6 +26,14 @@ The idea is simple. Put the marker on longitude and lattitude brought by JSON.
 The code complexity is due repeated monitoring by application to update location
 and complicated fashion of synchronus and asynchronus data handling. 
 
+## How to run 
+- Open terminal in the current project directory
+- run "python testingServer\server.py"
+- open index.html
+- click on one of the vehicles
+- wait for a minute you will see the car moving on the map
+
+
 ## Contributors
 
 - Rishabh Gupta
