@@ -10,7 +10,7 @@
 
 ![Status](https://img.shields.io/badge/status-unstable-green.svg)
 
-
+Please checkout the video project-video, to see video of running version of this prototype 
 
 With the help of this application, you
 can track the locations of the Buses and the battery-operated vehicles
@@ -32,6 +32,7 @@ and complicated fashion of synchronus and asynchronus data handling.
 - open index.html
 - click on one of the vehicles
 - wait for a minute you will see the car moving on the map
+- A video is also attached by name of project-video for reference
 
 
 ## Contributors
