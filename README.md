@@ -38,9 +38,6 @@ and complicated fashion of synchronus and asynchronus data handling.
 ## Contributors
 
 - Rishabh Gupta
-- Ujjal Das
-- Tulsi Prasad Jaiswal
-- Anand Prakash
 
 
 ## License
